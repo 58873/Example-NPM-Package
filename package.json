@@ -1,0 +1,19 @@
+{
+  "name": "example_npm_package_by_kashif",
+  "version": "1.0.0",
+  "description": "An example NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kashif7/Example-NPM-Package.git"
+  },
+  "author": "Kashif Roshen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kashif7/Example-NPM-Package/issues"
+  },
+  "homepage": "https://github.com/Kashif7/Example-NPM-Package#readme"
+}
