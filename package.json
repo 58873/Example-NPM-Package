@@ -1,5 +1,5 @@
 {
-  "name": "example_npm_package_by_kashif",
+  "name": "example_npm_package_by_mohammadalt",
   "version": "1.0.0",
   "description": "An example NPM package",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kashif7/Example-NPM-Package.git"
+    "url": "git+https://github.com/58873/Example-NPM-Package.git"
   },
-  "author": "Kashif Roshen",
+  "author": "Mohammadalt",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kashif7/Example-NPM-Package/issues"
+    "url": "https://github.com/issues"
   },
-  "homepage": "https://github.com/Kashif7/Example-NPM-Package#readme"
+  "homepage": "https://github.com/58873/Example-NPM-Package"
 }
