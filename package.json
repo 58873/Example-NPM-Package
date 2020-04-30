@@ -2,7 +2,7 @@
   "name": "example_npm_package_by_mohammadalt",
   "version": "1.0.0",
   "description": "An example NPM package",
-  “Start”: “node src/index.js”,
+  "Start": "node src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
