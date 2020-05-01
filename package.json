@@ -1,6 +1,6 @@
 {
-  "name": "example_npm_package_by_mohammadalt",
-  "version": "1.0.0",
+  "name": "discord-npm-example",
+  "version": "1.0.1",
   "description": "An example NPM package",
   "scripts": { 
     "start": "node src/index.js",
