@@ -1,1 +1,3 @@
-console.log("if you see this it worked")
+module.exports.message = (message) => {
+   console.log(`lol`)
+}
