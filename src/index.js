@@ -1,4 +1,6 @@
-var lolz = function (bot, path, prefix) {
-   console.log(`lolz`)
+export function hnpm(channel) {
+  return console.log(`hi`)
 }
-module.exports = lolz
+export function bnpm(channel) {
+  return console.log(`bye`)
+}
